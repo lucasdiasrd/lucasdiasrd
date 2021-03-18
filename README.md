@@ -9,7 +9,7 @@
 
 </p>
 
-- 📚 I'm currently learning HTML, CSS and JavaScript in [Rocketseat](https://github.com/Rocketseat)
+- 📚 I'm currently learning <strong>HTML, CSS and JavaScript</strong> in [Rocketseat](https://github.com/Rocketseat)
 - 📫 How to reach me **lucasdiasrd@gmail.com**
 - 🇧🇷 Living in Macapá/AP - Brazil
 
